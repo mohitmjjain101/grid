@@ -1,0 +1,42 @@
+[
+    {
+        "firstname": "Amol",
+        "lastname": "Khanna",
+        "email": "amol@gmail.com"
+    },
+    {
+        "firstname": "Mohit",
+        "lastname": "Jain",
+        "email": "mohit@gmail.com"
+    },
+    {
+        "firstname": "Sugam",
+        "lastname": "Sharma",
+        "email": "sugam@gmail.com"
+    },
+    {
+        "firstname": "Rubina",
+        "lastname": "Khan",
+        "email": "rubina@gmail.com"
+    },
+    {
+        "firstname": "Aleey",
+        "lastname": "Krystin",
+        "email": "Aleey@gmail.com"
+    },
+    {
+        "firstname": "Jackson",
+        "lastname": "Buttler",
+        "email": "Jackson@gmail.com"
+    },
+    {
+        "firstname": "Anmol",
+        "lastname": "Khanna",
+        "email": "ammol@gmail.com"
+    },
+    {
+        "firstname": "Radha",
+        "lastname": "Vijayvargiya",
+        "email": "Radha@gmail.com"
+    }
+]
